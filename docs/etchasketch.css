@@ -1,0 +1,14 @@
+#container {
+    height: 590px;
+    width: 590px;
+    overflow: hidden;
+    display: grid;
+    margin: auto auto;
+    border: 1px solid black;
+}
+
+.grid {
+    /* border: 1px solid black; */
+    background-color: white;
+}
+
